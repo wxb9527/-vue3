@@ -1,0 +1,8 @@
+{
+  "name": "高校心理咨询系统 (University Psychology System)",
+  "description": "A comprehensive mental health platform for universities featuring student self-service, doctor management, and administrative oversight, integrated with Gemini AI for instant support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
